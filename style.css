@@ -1,0 +1,30 @@
+.background{
+	background-image: url(background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.font1{
+	font-family: 'DM Sans', sans-serif;
+}
+
+.font2{
+	font-family: 'Fjalla One', sans-serif;
+	color: white;
+	font-size: 70px;
+}
+
+.column{
+	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 10px;
+}
+
+.row{
+	margin-left: 147px
+}
+
+.center{
+	text-align: center;
+}
